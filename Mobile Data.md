@@ -4,7 +4,7 @@
 We simply switch on the mobile data on our smartphones to connect to the internet, but have you ever thought who provides this data, how the limit is determined, and, most importantly, how everything stops or slows down after your data pack is consumed?
 
 As we all know, the internet is a "network of networks" that can be accessed in two ways, both of which use radio waves for data transmission.
-![Cloud Computing.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1667671503363/5wkiBpvav.png align="left")
+![Cloud Computing.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1667671503363/5wkiBpvav.png)
 1. **Cellular Data:** You can access internet via Cellular Data as long as you’re in a geographical area covered by your mobile network carrier or network towers.
 
 2. **WiFi:** You can access internet via WiFi as long as you're in close proximity with the WiFi router or any other connection device.
@@ -21,7 +21,7 @@ However, have you ever experienced a tiny delay in the process of activating you
 
 Additionally, you must have noticed a list of mobile networks if you attempted to select one manually. If you attempted to connect to a different network, it would take a few seconds and display an error. Let's see what happens behind all of this.
 
-![Cloud Computing(1).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1667734098234/V1CrgUVfb.png align="left")
+![Cloud Computing(1).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1667734098234/V1CrgUVfb.png)
 
 Once this connection is made, data travels over in bits of 1s and 0s while your data usage is monitored and counted. Therefore, depending on your Internet Service Provider, as soon as you hit the data limit, either your bandwidth is decreased, which will result in slower speed, or the connection is dropped.
 
