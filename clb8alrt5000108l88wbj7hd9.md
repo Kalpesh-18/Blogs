@@ -1,4 +1,4 @@
-# Computing Types using the analogy of the Pizza Company🍕
+# Computing Types using the analogy of Pizza Company🍕
 
 # Overview
 In this article, we will learn about various types of computing environments through simple examples.
