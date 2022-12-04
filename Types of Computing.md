@@ -11,7 +11,7 @@ From here onward we are going to consider pizza outlet as a computing resource.
 # Personal Computing
 Our first Domino's outlet, complete with all of the pizza-making and packaging equipment. We own this outlet; we purchased it and now only pay for electricity, raw materials and operational usage. Similarly, you own your personal computer and pay only for electricity usage and some maintenance after making the initial investment.
 
-![Mind Map 1280x720 px-5.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670092606782/39wEgl-AU.png align="left")
+![Mind Map 1280x720 px-5.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670092606782/39wEgl-AU.png)
 
 In technical terms personal computing is a standalone machine, where all the programs completely reside on the machine and execute there itself. Eg - Laptops, mobiles, printers.
 
@@ -20,7 +20,7 @@ Now that we have our first outlet, you should list it on food delivery apps such
 
 Now here comes the concept of **Client-Server Architecture**, it is simple. Our outlet is server, customers are our clients. We have the computing power to make pizza's while our clients don't have it. Hence they send a request and we serve this request. Overall we call this a Client-Server Architecture.
 
-![Mind Map 1280x720 px.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670086203664/UyD-_86ez.png align="left")
+![Mind Map 1280x720 px.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670086203664/UyD-_86ez.png)
 
 **As our clients don't have the required equipment (Computing power) for making pizza they are called as thin node. Thin nodes are nodes that cannot function independently and require a central computing resource.**
 
@@ -29,7 +29,7 @@ However, there is a disadvantage to this. What if we are the only pizza delivery
 # Decentralized Computing
 We take a market survey and find that there are many such outlets of various other companies like Pizzahut, La pino'z, Papa Johns, etc. Each outlet does the same task of making pizza, but they have their own equipment, vendors and resources. All the outlets keep a watch on their competition and try to be the best in the business. In this way they are functioning independently but are also connected to each other by monitoring the competition.
 
-![Mind Map 1280x720 px-1.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670092631671/Vr6ZQk_dQ.png align="left")
+![Mind Map 1280x720 px-1.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670092631671/Vr6ZQk_dQ.png)
 
 Now here comes the concept of **Peer-to-peer Architecture**, it is simple. Let us refer to each outlet as a node; in this case, each outlet has the necessary equipment (Computing power) for making pizza and can function independently without requirement of any central server, as discussed in Client-Server Architecture. Every node takes their own decisions and manage their resources. Just remember the fact that every node does it's own job and they are ***not working collectively.*** Similar architecture is used in Block chain technology. **Thick nodes can function independently and have their own computing resources.** 
 
@@ -40,7 +40,7 @@ Now let us take a look at the structure of our business, we prepare pizza at our
 
 As you can notice in this case we have a common outcome of serving the customer and all our nodes ***work collectively*** in-order to achieve this. Every node does a part of work (either supply raw materials, supply electricity and so on). The work is distributed among all the nodes.
 
-![Mind Map 1280x720 px-2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670092644797/c7f-bwWFn.png align="left")
+![Mind Map 1280x720 px-2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670092644797/c7f-bwWFn.png)
 
 In technical terms distributed system is a group of computer programmes that use computational resources distributed across multiple, independent computation nodes to achieve a common, shared goal.
 It uses separate nodes to communicate and synchronise over a common network and is also known as distributed computing or distributed databases.
@@ -50,7 +50,7 @@ We assume here that we always have a backup ready in case any one of these servi
 # Cluster Computing
 In order to grow our business, we decided to open multiple Domino's outlets throughout the city while maintaining a central headquarters with a warehouse. All raw materials would be imported to the warehouse and then transported to the outlets after being quality checked. Also, after analyzing previous sales, we discover that some outlets sell less than others, so we allocate fewer resources to them and more to others based on their needs.
 
-![Mind Map 1280x720 px-3.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670092706107/-ED5ZfI_8.png align="left")
+![Mind Map 1280x720 px-3.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670092706107/-ED5ZfI_8.png)
 
 Points to be consider
 - All the computing nodes are homogeneous i.e. they have same type of hardware & operating system. (We serve same pizza using the same secret recipe at every outlet)
@@ -61,7 +61,7 @@ Points to be consider
 # Grid Computing
 We are expanding our service across the country, and as a marketing strategy, we customise the pizza based on the city. The pizza made in Pune would be tailored to the culture of the people who live there, as it is in other cities. Instead of headquarter with warehouse, we have storage facilities for each outlet. We've also given outlets the freedom to make their own decisions and even create new dishes to add to their menu.
 
-![Mind Map 1280x720 px-4.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670092717253/xMjfYCfpm.png align="left")
+![Mind Map 1280x720 px-4.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1670092717253/xMjfYCfpm.png)
 
 Points to be consider
 - Nodes may have different Operating systems and hardwares. Machines can be homogeneous or heterogeneous. (We serve customized pizza using the different recipe at every outlet)
