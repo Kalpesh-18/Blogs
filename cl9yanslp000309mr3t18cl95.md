@@ -4,7 +4,7 @@
 
 To put it simply, a cloud is a collection of physical servers that exist in one area and are accessible over the internet. The primary goal of cloud technology is to eliminate dependency on physical hardware. For example, you may be unaware that the blog you are currently reading is being served by a server located in a cloud network.
 
-![Cloud Computing1.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1667306816729/21DXLvewr.png align="center")
+![Cloud Computing1.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1667306816729/21DXLvewr.png)
 
 ## Why use Cloud?
 To understand more about cloud foundations, consider the following example.
@@ -42,12 +42,12 @@ These are just a handful of the issues that cloud technology can tackle. The nex
   - **Vertical scaling** - Increasing the computational power of your server.
   - **Horizontal scaling** - Adding new servers of the same computational power.
 
-![Cloud Computing.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1667456517471/6t6xACYwN.png align="left")
+![Cloud Computing.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1667456517471/6t6xACYwN.png)
 Now that we've established what cloud computing is, let's look at how cloud service providers supply these services.
 
 ## Cloud Service Models
 
-![Cloud Computing2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1667308997095/4SFvRxcLI.png align="center")
+![Cloud Computing2.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1667308997095/4SFvRxcLI.png)
 
 Cloud service companies provide their services using one of three popular models:
 
